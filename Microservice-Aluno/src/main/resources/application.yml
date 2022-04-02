@@ -1,0 +1,8 @@
+spring:
+  application:
+    name: alunos
+   
+
+server:
+  port: 8081 
+  
